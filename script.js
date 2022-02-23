@@ -1,0 +1,1 @@
+const projectName = 'my-personal-portfolio';
